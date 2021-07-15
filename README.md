@@ -1,6 +1,6 @@
 <h1>Hello, WORLD!</h1>
 
-BUILDING README
+🏗️BUILDING README🏗️
 
 - 👋 Hi, I’m @zetTtai
 - 👀 I’m interested in ...
