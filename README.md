@@ -2,8 +2,7 @@
 PRUEBA
 
 
-
------------------------------------------
+![Zettai's github stats](https://github-readme-stats.vercel.app/api?username=zetTtai&hide=contribs,prs&count_private=true&show_icons=true)
 - 👋 Hi, I’m @zetTtai
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
