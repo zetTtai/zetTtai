@@ -13,7 +13,7 @@ This is my personal github! Where you will mainly finished **university projects
 
 - 🌱 **I’m currently learning** software engineering (backend *&&* frontend) but also I’m also starting to research AI stuff on my own.
 
-- 👯 **I’m looking to collaborate on** anything related to what I am currently learning (Priority to projects in Spanish 🇪🇸) *&&* IA related projects to improve my knowledge.
+- 👯 **I’m looking to collaborate on** anything related to what I am currently learning (Priority to projects in Spanish) *&&* IA related projects to improve my knowledge.
 - 📝 Here is my [resume]()!
 
 ### 📱Contact me📱
