@@ -16,14 +16,19 @@ This is my personal github! Where you will mainly finished **university projects
 - 👯 **I’m looking to collaborate on** anything related to what I am currently learning (Priority to projects in Spanish 🇪🇸) *&&* IA related projects to improve my knowledge.
 - 📝 Here is my [resume]()!
 
-
-
-
-
-
 ### 📱Contact me📱
-// TODO
-</br></br> <h2>💻 Some stats 💻</h2> 
+
+<a href="mailto:raulbeltmarc@gmail.com">
+    <img src="https://img.shields.io/badge/-raulbeltmarc@gmail.com-b23121?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://steamcommunity.com/profiles/76561198203948264">
+    <img src="https://img.shields.io/badge/-Zettai-1b2838?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198203948264"/>
+</a>
+
+</br> <h2>💻 Some stats 💻</h2> 
+
 ![](https://komarev.com/ghpvc/?username=zetTtai&color=3fb950 )
+
 ![Zettai's github stats](https://github-readme-stats.vercel.app/api?username=zetTtai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetTtai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
