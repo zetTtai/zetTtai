@@ -2,7 +2,7 @@
 
 <img src="https://cdn.betterttv.net/emote/5e2f4aed5e6f5751e76c8121/3x" align="right" width="130" height="130"/>
 
-I’m a university student, finishing my training in **Computer Engineering at [UA](https://www.ua.es/)**! </br>
+Graduated in **Software Engineering at [UA](https://www.ua.es/)**! </br>
 I enjoy spending my free time 🎮 playing video games, 📚reading books *&&* </br> spend time in my own projects as hobby.
 
 
@@ -15,7 +15,8 @@ This is my personal github! Where you will mainly finished **university projects
 
 - 👯 **I’m looking to collaborate on** anything related to what I am currently learning (Priority to projects in Spanish) *&&* IA related projects to improve my knowledge.
 - 📝 Here is my [resume]()! (Building)
-
+- 😎 Full Stack enjoyer
+  
 ### 📱Contact me📱
 
 <a href="mailto:raulbeltmarc@gmail.com">
