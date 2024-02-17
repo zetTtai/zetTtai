@@ -14,7 +14,7 @@ This is my personal github! Where you will mainly finished **university projects
 - 🌱 **I’m currently learning** software engineering (backend *&&* frontend) but also I’m also starting to research AI stuff on my own.
 
 - 👯 **I’m looking to collaborate on** anything related to what I am currently learning (Priority to projects in Spanish) *&&* IA related projects to improve my knowledge.
-- 📝 Here is my [resume]()! (Building)
+- 📝 Here is my CV ([(ES version of CV) ](https://github.com/zetTtai/zetTtai/blob/main/Curr%C3%ADculum%20Vitae%20-%20Ra%C3%BAl%20Beltr%C3%A1n%20Marco.pdf)/ [(EN version of CV)](https://github.com/zetTtai/zetTtai/blob/main/Curr%C3%ADculum%20Vitae%20-%20Ra%C3%BAl%20Beltr%C3%A1n%20Marco%20(EN).pdf)
 - 😎 Full Stack enjoyer
   
 ### 📱Contact me📱
